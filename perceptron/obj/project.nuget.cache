@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RRSE6ZpGZu6neKC4UCTh+R7GfQ/bzsRkViistUSTEt4F+l4Rqs3UWZE/kjqrfp2ifsMmX8fe8p1TlZ8ocZ+wEA==",
+  "success": true,
+  "projectFilePath": "/Users/sergejvodanov/Projects/perceptron/perceptron/perceptron.csproj",
+  "expectedPackageFiles": [
+    "/Users/sergejvodanov/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

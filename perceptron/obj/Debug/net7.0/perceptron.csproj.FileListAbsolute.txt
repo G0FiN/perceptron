@@ -1,0 +1,17 @@
+/Users/sergejvodanov/Projects/perceptron/perceptron/bin/Debug/net7.0/perceptron
+/Users/sergejvodanov/Projects/perceptron/perceptron/bin/Debug/net7.0/perceptron.deps.json
+/Users/sergejvodanov/Projects/perceptron/perceptron/bin/Debug/net7.0/perceptron.runtimeconfig.json
+/Users/sergejvodanov/Projects/perceptron/perceptron/bin/Debug/net7.0/perceptron.dll
+/Users/sergejvodanov/Projects/perceptron/perceptron/bin/Debug/net7.0/perceptron.pdb
+/Users/sergejvodanov/Projects/perceptron/perceptron/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/sergejvodanov/Projects/perceptron/perceptron/obj/Debug/net7.0/perceptron.csproj.AssemblyReference.cache
+/Users/sergejvodanov/Projects/perceptron/perceptron/obj/Debug/net7.0/perceptron.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejvodanov/Projects/perceptron/perceptron/obj/Debug/net7.0/perceptron.AssemblyInfoInputs.cache
+/Users/sergejvodanov/Projects/perceptron/perceptron/obj/Debug/net7.0/perceptron.AssemblyInfo.cs
+/Users/sergejvodanov/Projects/perceptron/perceptron/obj/Debug/net7.0/perceptron.csproj.CoreCompileInputs.cache
+/Users/sergejvodanov/Projects/perceptron/perceptron/obj/Debug/net7.0/perceptron.csproj.CopyComplete
+/Users/sergejvodanov/Projects/perceptron/perceptron/obj/Debug/net7.0/perceptron.dll
+/Users/sergejvodanov/Projects/perceptron/perceptron/obj/Debug/net7.0/refint/perceptron.dll
+/Users/sergejvodanov/Projects/perceptron/perceptron/obj/Debug/net7.0/perceptron.pdb
+/Users/sergejvodanov/Projects/perceptron/perceptron/obj/Debug/net7.0/perceptron.genruntimeconfig.cache
+/Users/sergejvodanov/Projects/perceptron/perceptron/obj/Debug/net7.0/ref/perceptron.dll
