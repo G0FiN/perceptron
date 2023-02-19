@@ -1,4 +1,4 @@
-***Console output**
+***Console output***
 ```JSON
 Perceptron is running...
 Epoch 1
