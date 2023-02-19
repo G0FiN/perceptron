@@ -1,5 +1,5 @@
 ***Console output***
-```JSON
+```
 Perceptron is running...
 Epoch 1
 Training on input: 15.1,-3.7,11.6
